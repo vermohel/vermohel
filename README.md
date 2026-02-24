@@ -1,34 +1,25 @@
-## Systems Engineer & Technical Game Developer
 
-I build complex runtime systems in LUAU — physics simulations, combat frameworks,
-economy systems, and backend infrastructure for production games on Roblox.
+<img width="1500" height="500" alt="github-banner-transparent (1)" src="https://github.com/user-attachments/assets/196e0838-943a-4645-a250-a46423936aed" />
 
-5+ years of development experience. 50+ delivered client projects.
-Specializations: real-time physics, state machines, procedural animation,
-client-server architecture, NPC behavior systems.
 
-### Featured Work
+<p align="center">
+  <a href="https://discord.gg/deyhPZteGy"><img src="https://img.shields.io/badge/Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.roblox.com/users/397629/profile"><img src="https://img.shields.io/badge/Roblox-Profile-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:vermohel@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0353A4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-🔧 **[sphere-vehicle-physics](link)** — Drift-capable vehicle system using
+## Featured Work
+
+**[sphere-vehicle-physics](link)** — Drift-capable vehicle system using
 invisible physics sphere with client-side interpolation. Full client-server
 architecture with network ownership transfer and state validation.
 
-🧟 **[topdown-survival-framework](link)** — Isometric survival game framework:
-camera system, gun mechanics, infection/status effects, objective system,
+**[topdown-survival-framework](link)** — Isometric survival game framework:
+camera system, gun mechanics, objective system,
 minimap, and integrated game loop.
 
-🎮 **[combat-state-machine](link)** — Modular combat framework using
-hierarchical finite state machines. Hitbox system, combo trees, input buffering.
+ **[warhammer-gun-system](link)** — Production FPS weapon framework. Spring-driven recoil, FP/TP zoom transitions, server-authoritative hit validation.
 
-📐 **[verlet-procedural-animation](link)** — Procedural character animation
-using Verlet integration. Chain-based limb physics with constraint solving.
-
-### Technical Interests
-
-Real-time physics simulation · Finite state machines · Client-server architecture
-· Network interpolation & prediction · Procedural generation · Systems design
-
-### Contact
-
-Open to complex freelance projects and collaboration.
-[Portfolio/contact method] · [Email if comfortable]
+**[verlet-throwing-system](link)** — Physics-based projectile system using Velocity Verlet integration with quadratic drag, swept-sphere collision, and server-authoritative hit validation.
